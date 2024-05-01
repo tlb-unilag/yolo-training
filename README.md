@@ -1,2 +1,2 @@
 # yolo-training
-YOLO object detection training scripts, weights.
+YOLOv8 object detection training scripts, weights.
